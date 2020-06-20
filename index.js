@@ -77,5 +77,5 @@ bot.on('message', (message) => {
 
 
 
-bot.login('NzIzNDYwOTcwMTQ3NjEwNjU0.Xu3-Gw.96nALDDcGBN-gzwRWDa-9gQ0whU');
+bot.login('token in here');
 
